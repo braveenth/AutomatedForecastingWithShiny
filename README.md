@@ -26,3 +26,5 @@ As the focus lies on automation, the econometric models are very simplistic, and
 
 + The application is hosted at https://pmaier1971.shinyapps.io/AutomatedForecastingWithShiny/
 
+
+* Fork by Braveenth: Adding Content from Statistics Canada and CANSIM (to-do)
